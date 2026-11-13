@@ -1,0 +1,6 @@
+{
+  "name": "Vikas AI",
+  "description": "All-in-one AI platform for multilingual chat, image generation and editing, video and music creation, voice, coding, documents, translation, and study assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
